@@ -25,7 +25,7 @@
   $$EL = PD \times LGD \times EAD$$
 
 ### 3. 模型评估
-* 使用 **ROC-AUC** 评估 PD 模型的区分能力。
+* 使用 **ROC-AUC/ Gini系数 / K-S统计量** 评估 PD 模型的区分能力。
 * 利用 **Population Stability Index (PSI)** 监控模型稳定性。
 
 ## 🛠️ 技术栈 (Tech Stack)
